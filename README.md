@@ -21,7 +21,7 @@ A website made using Tailwind CSS.
 Built from scratch using HTML, CSS, Bootstrap, and JavaScript.
 
 ### [Playlist Downloader](https://github.com/M-Salman-khan/YT_Playlist_Downloader)
-A project that allows users to download YouTube playlists. [Project Description](https://www.linkedin.com/in/m-salman-khan/)
+A project that allows users to download YouTube playlists. [Project Description](https://www.linkedin.com/in/m-salman-khan-/)
 
 ## Skills
 

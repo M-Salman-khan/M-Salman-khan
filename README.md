@@ -35,16 +35,10 @@ A project that allows users to download YouTube playlists. [Project Description]
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=Connect)](https://www.linkedin.com/in/m-salman-khan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=Connect)](https://www.linkedin.com/in/m-salman-khan-/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&label=Follow)](https://github.com/M-Salman-khan)
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Salman-khan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Salman-khan&layout=compact&theme=radical)
-
-## Support
-
-If you like my work, feel free to buy me a coffee! 😊
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=flat&logo=buy-me-a-coffee&label=Support)](https://www.buymeacoffee.com/yourprofile)

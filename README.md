@@ -6,7 +6,7 @@
 
 I'm a passionate and dedicated student currently pursuing a BTech in Computer Science and Engineering (CSE). I'm a beginner in web development, exploring the tech field, and eager to learn and grow. I have a solid foundation in Python, C/C++, and Data Structures and Algorithms (DSA). My interests include full-stack web development, software engineering, and problem-solving.
 
-- 🌱 I’m currently learning: Django for back-end development
+- 🌱 I’m currently learning: Front-end development
 - 🔭 I’m currently working on: Building a full-stack website
 - 💬 Ask me about: Python, C/C++, DSA, and web development
 - 📫 How to reach me: thetechyera@gmail.com

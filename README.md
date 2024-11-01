@@ -14,9 +14,6 @@ I'm a passionate and dedicated student currently pursuing a BTech in Computer Sc
 
 ## Projects
 
-### [Deligence](https://m-salman-khan.github.io/Deligence/)
-A website made using Tailwind CSS.
-
 ### [Personal Portfolio](https://m-salman-khan.web.app)
 Built from scratch using HTML, CSS, Bootstrap, and JavaScript.
 

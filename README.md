@@ -13,8 +13,8 @@ I'm a passionate and dedicated student currently pursuing a BTech in Computer Sc
 
 ## Projects
 
-### [Personal Portfolio](https://m-salman-khan.web.app)
-Built from scratch using HTML, CSS, Bootstrap, and JavaScript.
+### [URL Shortner](https://github.com/M-Salman-khan/URL_Shortner)
+A URL shortener is a tool that converts long web addresses into compact, easy-to-share short links while optionally tracking user visits.
 
 ### [Playlist Downloader](https://github.com/M-Salman-khan/YT_Playlist_Downloader)
 A project that allows users to download YouTube playlists. [Project Description](https://www.linkedin.com/in/m-salman-khan-/)

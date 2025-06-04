@@ -4,11 +4,13 @@
 
 ## About Me
 
-I'm a passionate and dedicated student currently pursuing a BTech in Computer Science and Engineering (CSE). I'm a beginner in web development, exploring the tech field, and eager to learn and grow. I have a solid foundation in Python, C and I'm currently learning Data Structures and Algorithms (DSA). My interests include full-stack web development, software engineering, and problem-solving.
+I'm a passionate and dedicated student currently pursuing a BTech in Computer Science and Engineering (CSE). I'm deeply interested in full-stack web development and software engineering, and I’m always eager to explore new technologies and solve real-world problems.
 
-- 🌱 I’m currently learning: Back-end development
-- 🔭 I’m currently working on: Building a full-stack website
-- 💬 Ask me about: Python, C/C++, and web development
+Currently, I'm diving into the MERN stack and RESTful APIs to build scalable, modern web applications. I also have hands-on experience in SQL, Python, C++, C, and front-end technologies like HTML5, CSS3, Bootstrap, and Tailwind CSS. Alongside, I'm strengthening my understanding of Data Structures and Algorithms (DSA).
+
+- 🌱 I’m currently learning: MERN stack & RESTful APIs
+- 🔭 I’m currently working on: Building full-stack web applications
+- 💬 Ask me about: Web Development, Python, C/C++, SQL
 - 📫 How to reach me: thetechyera@gmail.com
 
 ## Projects
@@ -21,8 +23,10 @@ A project that allows users to download YouTube playlists. [Project Description]
 
 ## Skills
 
-- **Programming Languages:** Python, C/C++
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+- **Languages:** Python, C, C++, SQL
+- **Web Development:** HTML5, CSS3, JavaScript
+- **Frameworks & Libraries:** Bootstrap, Tailwind CSS
+- **Currently Learning:** MERN Stack, RESTful APIs
 
 ## Certifications
 
@@ -35,5 +39,5 @@ A project that allows users to download YouTube playlists. [Project Description]
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Salman-khan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Salman-khan&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Salman-khan&layout=compact&theme=radical)

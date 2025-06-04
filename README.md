@@ -39,5 +39,4 @@ A project that allows users to download YouTube playlists. [Project Description]
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Salman-khan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Salman-khan&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Salman-khan&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Salman-khan&layout=compact&theme=radical)

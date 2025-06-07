@@ -1,42 +1,76 @@
-# Hi there, I'm M. Salman Khan! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=M-Salman-khan&style=flat-square&color=blueviolet)
+# 👋 Hi there, I'm M. Salman Khan!
 
-![Profile Views](https://komarev.com/ghpvc/?username=M-Salman-khan)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=03B2F7&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Computer+Science+Student;Innovation+Seeker+%F0%9F%94%A5)](https://github.com/M-Salman-khan)
 
-## About Me
 
-I'm a passionate and dedicated student currently pursuing a BTech in Computer Science and Engineering (CSE). I'm deeply interested in full-stack web development and software engineering, and I’m always eager to explore new technologies and solve real-world problems.
+---
 
-Currently, I'm diving into the MERN stack and RESTful APIs to build scalable, modern web applications. I also have hands-on experience in SQL, Python, C++, C, and front-end technologies like HTML5, CSS3, Bootstrap, and Tailwind CSS. Alongside, I'm strengthening my understanding of Data Structures and Algorithms (DSA).
+## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning: MERN stack & RESTful APIs
-- 🔭 I’m currently working on: Building full-stack web applications
-- 💬 Ask me about: Web Development, Python, C/C++, SQL
-- 📫 How to reach me: thetechyera@gmail.com
+I’m a passionate Computer Science & Engineering (CSE) student with a deep interest in **Full-Stack Development** and **Software Engineering**.  
+I love building things that **solve real-world problems** and exploring cutting-edge technologies.
 
-## Projects
+- 🌱 Currently Learning: MERN Stack, RESTful APIs  
+- 🛠️ Tech Skills: HTML5, CSS3, JS, React, Node.js, Express.js, MongoDB  
+- 📚 Languages: Python, C, C++, SQL  
+- 📌 Interests: Web Dev, DSA, Open Source Contributions  
+- 📫 Reach me: **thetechyera@gmail.com**
 
-### [URL Shortner](https://github.com/M-Salman-khan/URL_Shortner)
-A URL shortener is a tool that converts long web addresses into compact, easy-to-share short links while optionally tracking user visits.
+---
 
-### [Playlist Downloader](https://github.com/M-Salman-khan/YT_Playlist_Downloader)
-A project that allows users to download YouTube playlists. [Project Description](https://www.linkedin.com/in/m-salman-khan-/)
+## 🚀 Projects
 
-## Skills
+🔗 [**URL Shortener**](https://github.com/M-Salman-khan/URL_Shortner)  
+Turn long URLs into short, shareable links. Supports analytics and tracking.
 
-- **Languages:** Python, C, C++, SQL
-- **Web Development:** HTML5, CSS3, JavaScript
-- **Frameworks & Libraries:** Bootstrap, Tailwind CSS
-- **Currently Learning:** MERN Stack, RESTful APIs
+🎵 [**YouTube Playlist Downloader**](https://github.com/M-Salman-khan/YT_Playlist_Downloader)  
+Download entire YouTube playlists easily. Built for convenience and speed.
 
-## Certifications
+📝 *More coming soon...*
 
-- 4-star rating in Python on HackerRank
+---
 
-## Connect with Me
+## 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=Connect)](https://www.linkedin.com/in/m-salman-khan-/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&label=Follow)](https://github.com/M-Salman-khan)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,python,c,cpp,mysql,git,github,vscode" alt="Skills" />
+</p>
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Salman-khan&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Salman-khan&layout=compact&theme=radical)
+## 📜 Certifications & Achievements
+
+- 🌟 **4⭐ Python** – HackerRank  
+- 🔍 Focused on DSA mastery
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=M-Salman-khan&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Salman-khan&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
+
+---
+
+## 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Salman-khan&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&label=Connect)](https://www.linkedin.com/in/m-salman-khan-/)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&label=Follow)](https://github.com/M-Salman-khan)
+
+---
+
+## 🙌 Fun Fact
+
+💡 I believe **tech + creativity** = world-changing innovations.
+
+---
+
+> *“Consistency is more important than perfection.”*
+

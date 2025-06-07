@@ -27,10 +27,10 @@ I'm currently exploring the magical world of the MERN Stack, trying to make sens
 
 ## 🚀 Cool Stuff I Made (and didn’t break… much)
 
-🔗 [**URL Shortener**](https://github.com/M-Salman-khan/URL_Shortner)  
+### 🔗 [**URL Shortener**](https://github.com/M-Salman-khan/URL_Shortner)  
 Turns big ugly URLs into small, classy ones. Also tracks who clicked because… why not?
 
-🎵 [**YouTube Playlist Downloader**](https://github.com/M-Salman-khan/YT_Playlist_Downloader)  
+### 🎵 [**YouTube Playlist Downloader**](https://github.com/M-Salman-khan/YT_Playlist_Downloader)  
 Download full playlists and videos like a tech ninja. No more manual clicking. You’re welcome.
 
 📝 *More coming soon...*

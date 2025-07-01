@@ -16,6 +16,20 @@ I'm currently exploring the magical world of the MERN Stack, trying to make sens
 
 ---
 
+## 🌐 Stalk me here (responsibly 👀):
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-salman-khan-/">
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/M-Salman-khan">
+    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/khansalman/">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="LeetCode" />
+  </a>
+</p>
+---
+
 ## 🧠 Brain Buffet
 - 🌱 Currently Learning: MERN Stack, RESTful APIs  
 - 🛠️ Tech Skills: HTML5, CSS3, JS, React, Node.js, Express.js, MongoDB  
@@ -67,11 +81,8 @@ Download full playlists and videos like a tech ninja. No more manual clicking. Y
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Salman-khan&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
----
 
-## 🌐 Let’s Be Internet Friends
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&label=Connect)](https://www.linkedin.com/in/m-salman-khan-/)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&label=Follow)](https://github.com/M-Salman-khan)
 
 ---
 

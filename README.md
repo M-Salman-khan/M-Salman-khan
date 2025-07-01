@@ -16,19 +16,7 @@ I'm currently exploring the magical world of the MERN Stack, trying to make sens
 
 ---
 
-## 🌐 Stalk me here (responsibly 👀):
-<p align="center">
-  <a href="https://www.linkedin.com/in/m-salman-khan-/">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/M-Salman-khan">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/khansalman/">
-    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="LeetCode" />
-  </a>
-</p>
----
+
 
 ## 🧠 Brain Buffet
 - 🌱 Currently Learning: MERN Stack, RESTful APIs  
@@ -66,6 +54,22 @@ Download full playlists and videos like a tech ninja. No more manual clicking. Y
 - 🌟 **4⭐ Python** – HackerRank  
 - 🔍 Slowly becoming friends with DSA
 - 💻 Survived multiple "npm install" meltdowns
+
+---
+
+## 🌐 Stalk me here (responsibly 👀):
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-salman-khan-/">
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/M-Salman-khan">
+    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/khansalman/">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="LeetCode" />
+  </a>
+</p>
+
 
 ---
 

@@ -68,6 +68,11 @@ Download full playlists and videos like a tech ninja. No more manual clicking. Y
   <a href="https://leetcode.com/khansalman/">
     <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="LeetCode" />
   </a>
+  <a href="https://codolio.com/profile/khansalman" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/source-code.png" alt="Codolio" title="Codolio Profile" />
+</a>
+
+
 </p>
 
 

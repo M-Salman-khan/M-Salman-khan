@@ -1,105 +1,185 @@
-![Profile Views](https://komarev.com/ghpvc/?username=M-Salman-khan&style=flat-square&color=blueviolet)
-# 👋 Hey Internet, Hello from M. Salman Khan!
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=03B2F7&vCenter=true&width=435&lines=B.Tech+CSE+Student+🎓;Future+Full-Stack+Developer+💻;Tech+Pagglluuu+🎀)](https://github.com/M-Salman-khan)
+```text
+  __  __      _____     ___      _       __  __      ___      _   _     _  __ _    _      ___      _   _ 
+ |  \/  |    / ____|   /   \    | |     |  \/  |    /   \    | \ | |   | |/ /| |  | |    /   \    | \ | |
+ | \  / |   | (___    /  ^  \   | |     | \  / |   /  ^  \   |  \| |   | ' / | |__| |   /  ^  \   |  \| |
+ | |\/| |    \___ \  /  /_\  \  | |     | |\/| |  /  /_\  \  | . ` |   |  <  |  __  |  /  /_\  \  | . ` |
+ | |  | |    ____) |/  _____  \ | |____ | |  | | /  _____  \ | |\  |   | . \ | |  | | /  _____  \ | |\  |
+ |_|  |_|   |_____//__/     \__\|______||_|  |_|/__/     \__\|_| \_|   |_|\_\|_|  |_|/__/     \__\|_| \_|
+                   |__|     |__|                |__|     |__|                        |__|     |__|         
+```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=850&lines=Backend+Developer+%7C+AI%2FML+Enthusiast;B.Tech+CSE+Student+%40+Quantum+University;Java+%7C+Python+%7C+Node.js+%7C+Angular;Building+Scalable+Backend+Systems;Open+Source+Learner+%7C+Future+Software+Engineer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-
-
-## 🧑‍💻 Who Dis?
-
-Hi! I’m Salman, a code-slinging, bug-smashing, chai-fueled B.Tech CSE student on a mission to break things (intentionally), fix them (hopefully), and ship cool stuff to the web.
-
-I'm currently exploring the magical world of the MERN Stack, trying to make sense of APIs, and figuring out how to center a div without crying.
-
-💡 My life goal? Build things that don't crash in production (yet).
-
----
-
-
-
-## 🧠 Brain Buffet
-- 🌱 Currently Learning: MERN Stack, RESTful APIs  
-- 🛠️ Tech Skills: HTML5, CSS3, JS, React, Node.js, Express.js, MongoDB  
-- 🔤 Languages I Speak (to my computer): Python, C, C++, SQL 
-- 📌 Interests: Web Dev, DSA, Open Source Contributions  
-- 📬 DM Me: **thetechyera@gmail.com** (No spam, just code pls)
+</div>
 
 ---
 
-## 🚀 Cool Stuff I Made (and didn’t break… much)
+```bash
+visitor@github:~$ cat about_me.txt
 
-### 🔗 [**URL Shortener**](https://github.com/M-Salman-khan/URL_Shortner)  
-Turns big ugly URLs into small, classy ones. Also tracks who clicked because… why not?
-
-### 🎵 [**YouTube Playlist Downloader**](https://github.com/M-Salman-khan/YT_Playlist_Downloader)  
-Download full playlists and videos like a tech ninja. No more manual clicking. You’re welcome.
-
-📝 *More coming soon...*
+Name      : M Salman Khan
+Handle    : M-Salman-khan
+University: Quantum University
+Degree    : B.Tech Computer Science (2028)
+Focus     : AI/ML · Backend · Full-Stack Web · DSA
+Location  : India 🇮🇳
+OS         : Fedora Linux 🐧
+Currently  : Building projects & preparing for Software Engineering roles
+Goal       : Software Engineer
+Status     : ▰▰▰▰▰▰▰▰▱▱ Learning Every Day
+Collab     : Open for internships, open-source & exciting projects 🚀
+```
 
 ---
 
-## 🛠️ My Toolbox
+# `> tech.stack`
+
+### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,python,c,cpp,mysql,git,github,vscode" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css" />
 </p>
 
-☕ Powered by caffeine and chaotic debugging sessions.
+### Frontend
 
----
-
-## 📜 Achievements I Brag About
-
-- 🌟 **4⭐ Python** – HackerRank  
-- 🔍 Slowly becoming friends with DSA
-- 💻 Survived multiple "npm install" meltdowns
-
----
-
-## 🌐 Stalk me here (responsibly 👀):
-<p align="center">
-  <a href="https://www.linkedin.com/in/m-salman-khan-/">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/M-Salman-khan">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/khansalman/">
-    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="LeetCode" />
-  </a>
-  <a href="https://codolio.com/profile/khansalman" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/source-code.png" alt="Codolio" title="Codolio Profile" />
-</a>
-
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap" />
 </p>
 
+### Backend
 
----
-
-## 📊 GitHub Stats That Prove I Exist
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=M-Salman-khan&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Salman-khan&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
-
----
-
-## 🔥 GitHub Streak (Send Help, I Can’t Stop Committing)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Salman-khan&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase" />
 </p>
 
+### DevOps & Tools
 
-
-
----
-
-## 🙌 Fun Fact
-
-💡 I speak fluent Python, but sometimes my brain still forgets a semicolon in C++ and ruins my day.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman" />
+</p>
 
 ---
 
-> *“Consistency is better than perfection. Unless you’re debugging — then you need both.”*
+# `> github.stats`
 
+
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=M-Salman-khan&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+# `> featured.projects`
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚌 **Bus Reservation System** | Complete bus booking platform with admin panel, authentication and seat management | Angular • Node.js • MongoDB |
+| 🔗 **URL Shortener** | Production-ready URL shortener with analytics and REST APIs | Node.js • Express • MongoDB |
+| 📥 **YouTube Playlist Downloader** | Download complete playlists using yt-dlp | Python |
+| 🌐 **Portfolio Website** | Responsive developer portfolio | React • Tailwind CSS |
+| 📰 **News App** | Live news application using NewsAPI | React |
+| 📋 **Task Manager** | Simple productivity web application | MERN Stack |
+
+---
+
+# `> currently.learning`
+
+```python
+current = {
+    "languages": [
+        "Java",
+        "Python"
+    ],
+
+    "backend": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "REST APIs",
+        "Authentication"
+    ],
+
+    "computer_science": [
+        "Data Structures & Algorithms",
+        "System Design",
+        "Operating Systems",
+        "DBMS"
+    ],
+
+    "ai_ml": [
+        "Machine Learning",
+        "Deep Learning",
+        "Python for AI"
+    ],
+
+    "goal": "Crack top Software Engineering internships"
+}
+```
+
+---
+
+# `> github.activity`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Salman-khan&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+# `> contribution.snake`
+
+<div align="center">
+
+![Snake animation](https://github.com/M-Salman-khan/M-Salman-khan/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> **Note:** The snake animation requires a GitHub Action to generate automatically.
+
+---
+
+# `> contact.init()`
+
+```python
+contact = {
+    "name"      : "M Salman Khan",
+    "github"    : "https://github.com/M-Salman-khan",
+    "portfolio" : "https://khansalman.me" || "https://m-salman-khan.web.app/",
+    "status"    : "Available for internships & collaborations 🟢"
+}
+
+print("Let's build something impactful together 🚀")
+```
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ff88?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://m-salman-khan.web.app/) 
+[![GitHub](https://img.shields.io/badge/GitHub-M--Salman--khan-181717?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/M-Salman-khan) 
+![Profile Views](https://komarev.com/ghpvc/?username=M-Salman-khan&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="left">
+
+```cpp
+while (!success) {
+    Learn();
+    Build();
+    Debug();
+    Commit();
+    Repeat();
+}
+```
+
+### 💚 *"Turning ideas into scalable software, one commit at a time."*
+
+</div>

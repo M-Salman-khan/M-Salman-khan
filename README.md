@@ -1,38 +1,7 @@
-<div align="center">
-
-```text
-  __  __      _____     ___      _       __  __      ___      _   _     _  __ _    _      ___      _   _ 
- |  \/  |    / ____|   /   \    | |     |  \/  |    /   \    | \ | |   | |/ /| |  | |    /   \    | \ | |
- | \  / |   | (___    /  ^  \   | |     | \  / |   /  ^  \   |  \| |   | ' / | |__| |   /  ^  \   |  \| |
- | |\/| |    \___ \  /  /_\  \  | |     | |\/| |  /  /_\  \  | . ` |   |  <  |  __  |  /  /_\  \  | . ` |
- | |  | |    ____) |/  _____  \ | |____ | |  | | /  _____  \ | |\  |   | . \ | |  | | /  _____  \ | |\  |
- |_|  |_|   |_____//__/     \__\|______||_|  |_|/__/     \__\|_| \_|   |_|\_\|_|  |_|/__/     \__\|_| \_|
-                   |__|     |__|                |__|     |__|                        |__|     |__|         
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=850&lines=Backend+Developer+%7C+AI%2FML+Enthusiast;B.Tech+CSE+Student+%40+Quantum+University;Java+%7C+Python+%7C+Node.js+%7C+Angular;Building+Scalable+Backend+Systems;Open+Source+Learner+%7C+Future+Software+Engineer+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="left">
+<img src="./assets/info-card.svg" width="490" alt="Salman Khan — experience, stack, highlights" />
 
 </div>
-
----
-
-```bash
-visitor@github:~$ cat about_me.txt
-
-Name      : M Salman Khan
-Handle    : M-Salman-khan
-University: Quantum University
-Degree    : B.Tech Computer Science (2028)
-Focus     : AI/ML · Backend · Full-Stack Web · DSA
-Location  : India 🇮🇳
-OS         : Fedora Linux 🐧
-Currently  : Building projects & preparing for Software Engineering roles
-Goal       : Software Engineer
-Status     : ▰▰▰▰▰▰▰▰▱▱ Learning Every Day
-Collab     : Open for internships, open-source & exciting projects 🚀
-```
-
----
 
 # `> tech.stack`
 
@@ -160,9 +129,7 @@ print("Let's build something impactful together 🚀")
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ff88?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://m-salman-khan.web.app/) 
-[![GitHub](https://img.shields.io/badge/GitHub-M--Salman--khan-181717?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/M-Salman-khan) 
-![Profile Views](https://komarev.com/ghpvc/?username=M-Salman-khan&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ff88?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://khansalman.me/) [![GitHub](https://img.shields.io/badge/GitHub-M--Salman--khan-181717?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/M-Salman-khan) ![Profile Views](https://komarev.com/ghpvc/?username=M-Salman-khan&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
 
 </div>
 
